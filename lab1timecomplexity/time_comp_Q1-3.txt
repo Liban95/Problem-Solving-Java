@@ -1,0 +1,7 @@
+IS52038B Algorithms and data structures coursework 1
+week 2:
+Author: James Dolan 33363333
+
+Q1) worst case is O(n^2)
+Q2) O(log N)
+Q3) 0(N)
